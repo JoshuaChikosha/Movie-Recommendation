@@ -16,6 +16,9 @@ Numpy: For numerical computations
 Installation
 To set up this project locally, follow these steps:
 
+download the large file csv for this project and add it to the folder once downloaded.
+https://www.dropbox.com/scl/fi/fg5jkp4hyyio30jfz7ty7/movies.csv?rlkey=xpbcy0cms5zw0pjuzjwm17a06&dl=0
+
 Clone the repository:
 
 bash
